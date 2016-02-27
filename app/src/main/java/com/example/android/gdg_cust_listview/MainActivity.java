@@ -13,17 +13,16 @@ import android.view.MenuItem;
 public class MainActivity extends ListActivity {
 
     String[] presidents = {
-            "Dwight D. Eisenhower",
-            "John F. Kennedy",
-            "Lyndon B. Johnson",
-            "Richard Nixon",
-            "Gerald Ford",
-            "Jimmy Carter",
-            "Ronald Reagan",
-            "George H. W. Bush",
-            "Bill Clinton",
-            "George W. Bush",
-            "Barack Obama"
+            "Australia",
+            "India",
+            "South Africa",
+            "Pakistan",
+            "England",
+            "New Zealand",
+            "Sri Lanka",
+            "West Indies",
+            "Bangladesh",
+            "Zimbabwe"
     };
 
     Integer[] imageIDs = {
@@ -37,7 +36,7 @@ public class MainActivity extends ListActivity {
             R.drawable.pic8,
             R.drawable.pic9,
             R.drawable.pic10,
-            R.drawable.pic11
+           
     };
 
     @Override
